@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Mmyat",
+      "email": "mmyathaha@gmail.com",
+      "phone": "09123456789"
+    },
+    {
+      "id": 1676088171830,
+      "name": "Myo Myat Zaw",
+      "email": "mmz@gmail.com",
+      "phone": "12345678932"
+    },
+    {
+      "id": 1676282872957,
+      "name": "Min Min Khant",
+      "email": "mmk231@gmail.com",
+      "phone": "09300500700"
+    }
+  ]
+}
